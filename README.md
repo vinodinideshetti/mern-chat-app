@@ -36,4 +36,13 @@ This project helped me strengthen my understanding of real-time web applications
 
 **Visual Studio Code** – Code editor used for development
 
+**Features**
+
+- Real-time messaging between users
+- Instant message delivery without refreshing the page
+- Backend powered by Express.js and Socket.io
+- Frontend developed using React.js with live UI updates
+- Bidirectional socket communication (client ↔ server)
+- Simple and clean UI for user-friendly experience
+- Structured folder architecture for scalability
 
