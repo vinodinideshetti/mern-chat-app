@@ -45,4 +45,9 @@ This project helped me strengthen my understanding of real-time web applications
 - Bidirectional socket communication (client ↔ server)
 - Simple and clean UI for user-friendly experience
 - Structured folder architecture for scalability
+  **Application Screenshots**
+1. Chat Interface
+![Chat Interface](./assets/chat-interface.png)
+ 2. Real-time Message
+![Real-time Messaging](./assets/real-time-message.png)
 
